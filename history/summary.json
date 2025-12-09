@@ -1,7 +1,7 @@
 [
   {
     "name": "MW-HomePage",
-    "url": "http://millennialsworks.com",
+    "url": "https://millennialsworks.com",
     "icon": "https://millennialsworks.com/favicon.ico",
     "slug": "mw-home-page",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2397,
-    "timeDay": 2397,
-    "timeWeek": 2397,
-    "timeMonth": 2397,
-    "timeYear": 2397,
+    "time": 2164,
+    "timeDay": 2164,
+    "timeWeek": 2164,
+    "timeMonth": 2164,
+    "timeYear": 2164,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 546,
-    "timeWeek": 546,
-    "timeMonth": 546,
-    "timeYear": 546,
+    "time": 486,
+    "timeDay": 486,
+    "timeWeek": 486,
+    "timeMonth": 486,
+    "timeYear": 486,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 331,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "time": 782,
+    "timeDay": 782,
+    "timeWeek": 782,
+    "timeMonth": 782,
+    "timeYear": 782,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1012,
-    "timeDay": 1012,
-    "timeWeek": 1012,
-    "timeMonth": 1012,
-    "timeYear": 1012,
+    "time": 939,
+    "timeDay": 939,
+    "timeWeek": 939,
+    "timeMonth": 939,
+    "timeYear": 939,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mw-server",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 742,
-    "timeDay": 742,
-    "timeWeek": 742,
-    "timeMonth": 742,
-    "timeYear": 742,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 738,
+    "timeDay": 738,
+    "timeWeek": 738,
+    "timeMonth": 738,
+    "timeYear": 738,
     "dailyMinutesDown": {
-      "2025-12-09": 56
+      "2025-12-09": 131
     }
   }
 ]
