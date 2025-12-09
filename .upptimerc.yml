@@ -30,8 +30,6 @@ sites:
     maxResponseTime: 5000
   - name: Google
     url: https://www.google.com
-  - name: GPT
-    url: https://openai.com/ko-KR
   - name: Cloudflare
     url: https://www.cloudflare.com/ko-kr
   - name: Docker
