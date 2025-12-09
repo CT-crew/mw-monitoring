@@ -1,6 +1,5 @@
 owner: CT-crew
 repo: mw-monitoring
-user-agent: $USER_AGENT
 
 sites:
   - name: MW-HomePage
@@ -18,7 +17,7 @@ sites:
     method: GET
     url: $SERVER_URL
     headers:
-      - "User-Agent: test-agent"
+      - User-Agent: $USER_AGENT
 
 skipDeleteIssues: true
 
