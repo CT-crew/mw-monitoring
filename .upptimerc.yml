@@ -28,14 +28,24 @@ sites:
     maxResponseTime: 5000
   - name: Google
     url: https://www.google.com
+    headers:
+      - "User-Agent: Chrome/120.0.0.0"
   - name: GPT
     url: https://chat.openai.com
+    headers:
+      - "User-Agent: Chrome/120.0.0.0"
   - name: Cloudflare
     url: https://www.cloudflare.com/ko-kr
+    headers:
+      - "User-Agent: Chrome/120.0.0.0"
   - name: Docker
     url: https://www.docker.com
+    headers:
+      - "User-Agent: Chrome/120.0.0.0"
   - name: Figma
     url: https://www.figma.com
+    headers:
+      - "User-Agent: Chrome/120.0.0.0"
 skipDeleteIssues: true
 
 assignees:
