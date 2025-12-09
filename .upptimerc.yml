@@ -5,19 +5,24 @@ sites:
   - name: MW-HomePage
     url: https://millennialsworks.com
     icon: https://millennialsworks.com/favicon.ico
+    maxResponseTime: 5000
   - name: Ammw landing page
     url: https://info.ammw.net
     icon: https://info.ammw.net/favicon.ico
+    maxResponseTime: 5000
   - name: SpaceV landing page
     url: https://spacev.info
     icon: https://spacev.info/images/favicon.png
+    maxResponseTime: 5000
   - name: Mw-Admin
     url: $ADMIN_URL
+    maxResponseTime: 5000
   - name: MW-Server
     method: GET
     url: $SERVER_URL
     headers:
       - "User-Agent: $CUSTOM_USER_AGENT"
+    maxResponseTime: 5000
 
 skipDeleteIssues: true
 
