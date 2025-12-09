@@ -1,6 +1,5 @@
-# Change these first
-owner: CT-crew # Your GitHub organization or username, where this repository lives
-repo: mw-monitoring # The name of this repository
+owner: CT-crew
+repo: mw-monitoring
 
 sites:
   - name: MW-HomePage
@@ -25,14 +24,10 @@ assignees:
 status-website:
   baseUrl: /mw-monitoring
   name: mw-monitoring
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**MillennialsWorks** 모니터링 페이지입니다."
+  introMessage: 현재 페이지에서 전반적인 서비스의 상태를 확인하실 수 있습니다.
   navbar:
     - title: Status
-      href: /
+      href: /mw-monitoring
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
-
-# https://ct-crew.github.io/mw-monitoring/
