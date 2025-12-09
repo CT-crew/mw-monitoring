@@ -17,6 +17,8 @@ sites:
   - name: MW-Server
     method: GET
     url: $SERVER_URL
+    headers:
+      - "User-Agent: test-agent"
 
 skipDeleteIssues: true
 
