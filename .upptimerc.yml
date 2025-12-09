@@ -1,9 +1,10 @@
 owner: CT-crew
 repo: mw-monitoring
+user-agent: $USER_AGENT
 
 sites:
   - name: MW-HomePage
-    url: http://millennialsworks.com
+    url: https://millennialsworks.com
     icon: https://millennialsworks.com/favicon.ico
   - name: Ammw landing page
     url: https://info.ammw.net
@@ -14,9 +15,8 @@ sites:
   - name: Mw-Admin
     url: $ADMIN_URL
   - name: MW-Server
+    method: GET
     url: $SERVER_URL
-    headers:
-      - "User-Agent: $USER_AGENT"
 
 skipDeleteIssues: true
 
