@@ -23,7 +23,19 @@ sites:
     headers:
       - "User-Agent: $CUSTOM_USER_AGENT"
     maxResponseTime: 5000
-
+  - name: MUSIC
+    url: $MUSIC_URL
+    maxResponseTime: 5000
+  - name: Google
+    url: https://www.google.com
+  - name: GPT
+    url: https://chat.openai.com
+  - name: Cloudflare
+    url: https://www.cloudflare.com/ko-kr
+  - name: Docker
+    url: https://www.docker.com
+  - name: Figma
+    url: https://www.figma.com
 skipDeleteIssues: true
 
 assignees:
