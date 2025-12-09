@@ -17,7 +17,7 @@ sites:
     method: GET
     url: $SERVER_URL
     headers:
-      - User-Agent: $USER_AGENT
+      - "User-Agent": $USER_AGENT
 
 skipDeleteIssues: true
 
