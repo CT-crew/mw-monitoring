@@ -3,37 +3,62 @@ repo: mw-monitoring
 
 sites:
   - name: MW-HomePage
-    url: https://millennialsworks.com/health.html
+    url: https://millennialsworks.com
     icon: https://millennialsworks.com/favicon.ico
-    headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 0
     maxResponseTime: 5000
+
   - name: Ammw landing page
     url: https://info.ammw.net
     icon: https://info.ammw.net/favicon.ico
     maxResponseTime: 5000
+
   - name: SpaceV landing page
     url: https://spacev.info
     icon: https://spacev.info/images/favicon.png
     maxResponseTime: 5000
+
   - name: Mw-Admin
     url: $ADMIN_URL
     maxResponseTime: 5000
+
   - name: MW-Server
     method: GET
     url: $SERVER_URL
     headers:
       - "User-Agent: $CUSTOM_USER_AGENT"
     maxResponseTime: 5000
-  - name: MUSIC
+
+  - name: MW-Pick-Server
+    method: GET
+    url: $PICK_SERVER_URL
+    headers:
+      - "User-Agent: $CUSTOM_USER_AGENT"
+    maxResponseTime: 5000
+
+  - name: MW-Music-Server
+    method: GET
+    url: $MUSIC_SERVER_URL
+    headers:
+      - "User-Agent: $CUSTOM_USER_AGENT"
+    maxResponseTime: 5000
+
+  - name: Music
     url: $MUSIC_URL
     maxResponseTime: 5000
+
   - name: Google
     url: https://www.google.com
+
   - name: Cloudflare
     url: https://www.cloudflare.com/ko-kr
+
   - name: Docker
     url: https://www.docker.com
+
   - name: Figma
     url: https://www.figma.com
 
