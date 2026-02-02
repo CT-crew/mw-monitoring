@@ -108,9 +108,9 @@
     "url": "$PICK_SERVER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mw-pick-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,16 +119,18 @@
     "timeWeek": 651,
     "timeMonth": 728,
     "timeYear": 717,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-02": 0
+    }
   },
   {
     "name": "MW-Music-Server",
     "url": "$MUSIC_SERVER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mw-music-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -137,7 +139,9 @@
     "timeWeek": 656,
     "timeMonth": 654,
     "timeYear": 665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-02": 0
+    }
   },
   {
     "name": "Music",
