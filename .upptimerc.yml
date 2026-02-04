@@ -2,14 +2,14 @@ owner: CT-crew
 repo: mw-monitoring
 
 sites:
-  - name: MW-HomePage
-    url: https://millennialsworks.com
-    icon: https://millennialsworks.com/favicon.ico
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 0
-    maxResponseTime: 5000
+  # - name: MW-HomePage
+  #   url: https://millennialsworks.com
+  #   icon: https://millennialsworks.com/favicon.ico
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 201
+  #     - 0
+  #   maxResponseTime: 5000
 
   - name: Ammw landing page
     url: https://info.ammw.net
