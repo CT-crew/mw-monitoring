@@ -1,7 +1,7 @@
 url: $MUSIC_URL
-status: up
-code: 200
-responseTime: 338
-lastUpdated: 2026-02-16T23:36:44.588Z
+status: down
+code: 500
+responseTime: 129
+lastUpdated: 2026-02-17T22:38:19.520Z
 startTime: 2025-12-09T07:45:39.263Z
 generator: Upptime <https://github.com/upptime/upptime>
