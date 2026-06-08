@@ -47,12 +47,12 @@
     "url": "$ADMIN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mw-admin",
-    "status": "up",
-    "uptime": "96.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.74%",
+    "status": "down",
+    "uptime": "96.73%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "96.73%",
     "time": 893,
     "timeDay": 815,
     "timeWeek": 766,
@@ -66,7 +66,8 @@
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
-      "2026-03-05": 969
+      "2026-03-05": 969,
+      "2026-06-08": 24
     }
   },
   {
@@ -74,11 +75,11 @@
     "url": "$SERVER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mw-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 705,
     "timeDay": 683,
@@ -86,7 +87,8 @@
     "timeMonth": 701,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2025-12-09": 150
+      "2025-12-09": 150,
+      "2026-06-08": 17
     }
   },
   {
@@ -94,12 +96,12 @@
     "url": "$PICK_SERVER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mw-pick-server",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.65%",
     "time": 669,
     "timeDay": 530,
     "timeWeek": 599,
@@ -107,7 +109,8 @@
     "timeYear": 669,
     "dailyMinutesDown": {
       "2026-02-03": 166,
-      "2026-02-02": 719
+      "2026-02-02": 719,
+      "2026-06-08": 10
     }
   },
   {
@@ -115,10 +118,10 @@
     "url": "$MUSIC_SERVER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mw-music-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.59%",
     "time": 717,
@@ -129,7 +132,8 @@
     "dailyMinutesDown": {
       "2026-02-03": 166,
       "2026-02-02": 719,
-      "2026-05-12": 174
+      "2026-05-12": 174,
+      "2026-06-08": 2
     }
   },
   {
