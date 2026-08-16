@@ -233,19 +233,19 @@
     "url": "https://www.figma.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.figma.com.ico",
     "slug": "figma",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 36,
-    "timeWeek": 76,
+    "timeDay": 74,
+    "timeWeek": 80,
     "timeMonth": 91,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2026-08-16": 0
+      "2026-08-16": 17
     }
   }
 ]
