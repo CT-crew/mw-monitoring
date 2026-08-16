@@ -233,9 +233,9 @@
     "url": "https://www.figma.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.figma.com.ico",
     "slug": "figma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -244,6 +244,8 @@
     "timeWeek": 76,
     "timeMonth": 91,
     "timeYear": 133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-16": 0
+    }
   }
 ]
